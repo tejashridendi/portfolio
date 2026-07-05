@@ -4,9 +4,9 @@
 Technical Skills: Python, R, SQL, Spark MLlib, Snowflake, Dataiku, ML, DL, Big Data Analytics
 
 ### Certifications
-[[Applied Data Science Badge - World Quant University] (https://www.credly.com/badges/f0f7ca45-f536-4034-8b23-c22c06a0abdc)]
-[ML Practitioner certification - Dataiku] (https://drive.google.com/file/d/1WhEx4x6tFBFtEH1T3ZOZ_Cr1aJOHsJXU/view?usp=sharing)
-[Data Science Workshop - Snowflake ] (https://drive.google.com/file/d/1rE6alkqPjrwxa-BRfFMsY8aF96dLkLBS/view?usp=sharing)
+* [[Applied Data Science Badge - World Quant University] (https://www.credly.com/badges/f0f7ca45-f536-4034-8b23-c22c06a0abdc)]
+* [ML Practitioner certification - Dataiku] (https://drive.google.com/file/d/1WhEx4x6tFBFtEH1T3ZOZ_Cr1aJOHsJXU/view?usp=sharing)
+* [Data Science Workshop - Snowflake ] (https://drive.google.com/file/d/1rE6alkqPjrwxa-BRfFMsY8aF96dLkLBS/view?usp=sharing)
 
 ### Projects
 **Prediction of Student Performance**
