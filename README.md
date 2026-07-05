@@ -23,5 +23,13 @@ Trained on a Linear Regression model and  step-wise Linear Regression model usin
 
 Uncovered insightful patterns & conclusions about the pandemic's evolution and the effectiveness of different governmental strategies in curbing its impact using **Python**. The time-series analysis demonstrates distinct trajectories of new COVID-19 cases in China, the US, and Sweden. This variation is likely reflective of the differing national policies and cultural backgrounds of these countries affecting the spread of the virus. The geospatial analysis supports the notion that regional policy and culture have a profound impact on the spread of the virus, with these three countries serving as microcosms for their respective regions' broader responses to the pandemic.
 
+**Sign Language Detection**
+
+[Visit Github] (https://github.com/tejashridendi/Abilities-Infinite/blob/main/SL_BBox_RoboflowObjectDetectionModel_Streamlit.ipynb)
+
+Keeping challenges of signers in mind and requirement of highly accurate system for real time, we implemented a model based on the YOLOv5 for sign language recognition.The new sign gesture recognition model can detect gestures from im-
+ages. Additionally, we compared the performance and execution times of YOLOV5 with other models, and found that our proposed model was more successful at extracting required features from the hand sign and recognized hand gestures with the mAP of 0.95 with precision score of 0.954 and recall score of 0.98. We predicted all the alphabets successfully. Hence , YOLOv5 model was selected with the best performance. Then, the best weight obtained through validation is applied to the
+YOLOv5 model and tested. As a result, we set our confidence threshold of 0.4. And performed on limited data, we achieved on average 0.995 map@0.5 and 0.904 map@0.5:0.95.
+
 
 
