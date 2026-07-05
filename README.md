@@ -2,7 +2,7 @@
 
 #Data Scientist
 
-Data Engineer transitioning into Data Science / Analytics 
+Data Engineer transitioning into Data Science / Analytics / AI Engineering
 
 Technical Skills: Python, R, SQL, Spark MLlib, Snowflake, Dataiku, ML, DL, Big Data Analytics. NoSQL Databases
 
